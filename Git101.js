@@ -1,2 +1,2 @@
 //Another js file
-//playing with Git
+//playing with G1t
